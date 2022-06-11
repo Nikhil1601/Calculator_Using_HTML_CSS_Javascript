@@ -1,0 +1,79 @@
+*{
+    margin: auto;
+    text-align: center;
+    background-color: black;
+}
+.header{
+    color: #fff;
+}
+.image{
+    padding: 5px;
+    width: 600px;
+    height: 500px;
+    border: 1px solid black;
+    border-radius: 10px;
+    float: left;
+    margin-top: 80px;
+    margin-left: 30px;
+    
+}
+.indian_flag{
+    width: 50px;
+    height: 60px;
+    margin: 5px;
+    padding: 5px;
+}
+.inverted-commas{
+    margin-left: 25px;
+    float: left;
+    padding: 5px;
+    margin-top: 35px;
+}
+.text{
+    color:#fff;
+    /* font-family: 'Comforter', cursive; */
+    font-family: 'Dancing Script', cursive;
+    margin-top: 80px;
+    font-size: 80px;
+    margin-right: 130px;
+    
+}
+#inverted-commas{
+   color: #fff;
+   font-size: 80px;
+   font-family: 'Times New Roman', Times, serif;
+    
+}
+.name-quote{
+    color: coral;
+    margin-left: 1100px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+}
+.bio{
+    color: #fff;
+    text-align: left;
+    line-height: 1.8;
+    margin: 0 auto 50px auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.bio #headline{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    margin-top: 30px;
+}
+#website{
+    color: #fff;
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+#tribute{
+    font-size: 25px;
+    
+}
+.copyright{
+    color: #fff;
+    font-size: 20px;
+    margin-bottom: 80px;
+}
