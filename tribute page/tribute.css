@@ -1,8 +1,12 @@
 *{
     margin: auto;
     text-align: center;
-    background-color: rgb(36, 34, 34);
+    /* background-color: rgb(36, 34, 34); */
+    
    
+}
+body{
+    background: linear-gradient(to left,rgb(234, 124, 143),rgb(215, 132, 59),rgb(129, 233, 129));
 }
 .header{
     color: #fff;
@@ -80,4 +84,7 @@
     color: #fff;
     font-size: 20px;
     margin-bottom: 80px;
+}
+.website a{
+    color: blue;
 }
